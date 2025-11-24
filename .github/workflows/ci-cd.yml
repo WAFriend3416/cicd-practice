@@ -1,7 +1,7 @@
 name: Node.js CI/CD
 
 on:
-  puash:
+  push:
     branches:
       - main
   pull_request:
