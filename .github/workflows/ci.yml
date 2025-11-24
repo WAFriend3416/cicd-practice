@@ -6,9 +6,9 @@ on:
   push: 
     branches:
       - main
-    pull_request:
-      branches:
-        - main
+  pull_request:
+    branches:
+      - main
 
 # 실행할 작업을 정의하는 영역
 jobs:
