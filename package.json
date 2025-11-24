@@ -1,0 +1,26 @@
+{
+  "name": "cicd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WAFriend3416/cicd-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WAFriend3416/cicd-practice/issues"
+  },
+  "homepage": "https://github.com/WAFriend3416/cicd-practice#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "jest": "^27.2.0",
+    "supertest": "^6.1.4"
+  }
+}
